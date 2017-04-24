@@ -1,0 +1,17 @@
+<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="222" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">6 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ underscore-cli@0.2.19 </tspan>
+<tspan x="10" y="90">  ├── coffee-script@1.12.5 </tspan>
+<tspan x="10" y="106">  ├─┬ commander@1.0.5 </tspan>
+<tspan x="10" y="122">  │ └── keypress@0.1.0 </tspan>
+<tspan x="10" y="138">  ├── JSONSelect@0.4.0 </tspan>
+<tspan x="10" y="154">  ├─┬ msgpack@1.0.2 </tspan>
+<tspan x="10" y="170">  │ └── nan@2.6.2 </tspan>
+<tspan x="10" y="186">  ├── underscore@1.8.3 </tspan>
+<tspan x="10" y="202">  └── underscore.string@3.2.3</tspan>
+</text>
+</svg>
